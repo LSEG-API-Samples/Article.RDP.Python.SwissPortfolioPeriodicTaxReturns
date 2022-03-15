@@ -29,20 +29,12 @@ To acquire your Platform credentials, you will need to reach out to your Refinit
 ### Required python libraries and their version:
 Python version 3.9.6 is being used here
 You may download requirements.txt from this repo then use the command `pip install -r requirements.txt` to install required libraries
+-  refinitiv.dataplatform==1.0.0a10
 -  pandas==1.3.5
 -  logging==0.5.1.2
 -  asyncio==3.4.3
--  copy==
--  collections==
 -  json==2.0.9
 -  datetime==4.3
--  time==
--  configparser==
--  functools==
--  contextlib==
--  traceback==
--  os==
--  refinitiv.dataplatform==1.0.0a10
 
 ## <a id="InputFiles"></a>Input files
 1. credentials.ini: Credentials file that contains RDP credentials
