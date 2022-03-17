@@ -52,7 +52,7 @@ You may download requirements.txt from this repo then use the command `pip insta
 From this code, we can retrieve Swiss Tax data from the input instruments provided in a CSV file using RDP Libraries.
 
 ## <a id="References"></a>References
-•  [Refinitiv Data Platform Libraries - quickstart](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/quick-start)
-•  [Refinitiv Data Platform APIs - Symbology User Guide](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-apis/documentation#symbology-user-guide)
-•  [Refinitiv Data Platform APIs Playground](https://apidocs.refinitiv.com/Apps/ApiDocs)
-•  [Swiss Tax Data | Refinitiv](https://www.refinitiv.com/en/market-data/regulatory-services/swiss-tax)
+-  [Refinitiv Data Platform Libraries - quickstart](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/quick-start)
+-  [Refinitiv Data Platform APIs - Symbology User Guide](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-apis/documentation#symbology-user-guide)
+-  [Refinitiv Data Platform APIs Playground](https://apidocs.refinitiv.com/Apps/ApiDocs)
+-  [Swiss Tax Data | Refinitiv](https://www.refinitiv.com/en/market-data/regulatory-services/swiss-tax)
