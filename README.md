@@ -1,4 +1,4 @@
-# Getting Swiss Portfolio periodic tax returns with Refinitiv Data Platform
+# [Getting Swiss Portfolio periodic tax returns with Refinitiv Data Platform](https://developers.refinitiv.com/en/article-catalog/article/swiss-portfolio-periodic-tax-returns)
 
 ## <a id="Introduction"></a>Introduction
 
